@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a collaborative full-stack app :eyes:
+- 🔭 I’m currently working on a collaborative full-stack app, Snode, check it out below :eyes:
 - 🌱 I’m currently learning the MERN stack via GT Coding Bootcamp :floppy_disk:
 - 👯 I’m looking to collaborate on food-related web projects :pizza:
 - 🤔 I’m looking for help with finding a job! I finish my last year teaching high school math in May and I finish my coding bootcamp in June. I'm a wicked hard worker and I'm going to make some company very thankful that they took a chance on a newbie like me :fire:
