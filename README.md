@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on refactoring my portfolio to use ReactJS, check it out below :eyes:
+- 🔭 I’m currently working on a unique reading, studying, engagement tool "Re-Engage" - Look out for it! :eyes:
 - 🌱 I’m currently learning the MERN stack via GT Coding Bootcamp :floppy_disk:
 - 👯 I’m looking to collaborate on food-related web projects :pizza:
 - 🤔 I’m looking for help with finding a job! I finish my last year teaching high school math in May and I finish my coding bootcamp in June. I'm a wicked hard worker and I'm going to thrive given the opportunity :fire:
