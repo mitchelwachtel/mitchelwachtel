@@ -1,6 +1,6 @@
 - 🔭 I just finished the collaborative project to aid in reading comprehension, "Re-Engage" - Check it out below! :eyes:
-- 🌱 I'm learning C# and .NET :floppy_disk:
+- 🌱 I'm learning .NET 6, EF Core, and Clean Architecture :floppy_disk:
 - :pencil2: I’m looking to collaborate on education-related web projects :triangular_ruler:
-- :fire: I'm starting a new job in July :fire:
+- :fire: I just started a job with RMCI on an OPM contract :fire:
 - 📫 Reach out: mitchel.wachtel@gmail.com :exclamation:
 - ⚡ I love Jesus, my wife, and my 2-yr-old a ton. I'm changing careers at 31 after 9 years teaching because I want to push myself past teaching AP Calculus. I'm excited to tell my son one day about this big risk that I took in 2022. I enjoy gardening, camping, climbing, building, guitar, Atlanta Braves baseball, and a good night of pub trivia :beers:
